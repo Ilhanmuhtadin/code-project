@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/mlruns/268037194767860339/cd9c86a9857147a1bd56047772c9f7fa/artifacts
+deleted_time: 1721356479890
+end_time: 1716562889476
+entry_point_name: ''
+experiment_id: '268037194767860339'
+lifecycle_stage: deleted
+run_id: cd9c86a9857147a1bd56047772c9f7fa
+run_name: log_____12
+run_uuid: cd9c86a9857147a1bd56047772c9f7fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716562871343
+status: 3
+tags: []
+user_id: ACER

@@ -1,0 +1,27 @@
+artifact_path: grid_search__5
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 6731
+model_uuid: 7d4aaf525823409c9d88e6f5215c86a6
+run_id: 4b14ccce89d9481586ae1856a56a5e66
+signature:
+  inputs: '[{"type": "string", "name": "island", "required": true}, {"type": "double",
+    "name": "culmen_length_mm", "required": true}, {"type": "double", "name": "culmen_depth_mm",
+    "required": true}, {"type": "double", "name": "flipper_length_mm", "required":
+    true}, {"type": "double", "name": "body_mass_g", "required": true}]'
+  outputs: '[{"type": "string", "name": "species", "required": true}]'
+  params: null
+utc_time_created: '2024-07-19 02:09:39.494608'

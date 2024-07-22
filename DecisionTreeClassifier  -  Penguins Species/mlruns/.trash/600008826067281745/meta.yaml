@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/14-Decision-Trees/dt/mlruns/600008826067281745
+creation_time: 1716525694351
+experiment_id: '600008826067281745'
+last_update_time: 1716530191522
+lifecycle_stage: deleted
+name: project_DT
+tags:
+  env: dev
+  version: 1.0.0

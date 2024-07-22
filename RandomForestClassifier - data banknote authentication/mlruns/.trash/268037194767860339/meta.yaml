@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/mlruns/268037194767860339
+creation_time: 1716561937296
+experiment_id: '268037194767860339'
+last_update_time: 1721356479890
+lifecycle_stage: deleted
+name: project_RandomForestClassifier
+tags:
+  env: dev
+  version: 1.0.0

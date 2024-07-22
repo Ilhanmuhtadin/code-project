@@ -1,0 +1,5 @@
+Columns,Shapiro,Stat_shapiro,P_value_shapiro,Normaltes,Stat_Normaltes,P_value_Normaltes,Kstest,Stat_Kstest,P_value_Kstest,Jarque_bera,Stat_Jarque_bera,P_value_Jarque_bera
+culmen_length_mm,False,0.9753,0.0000,False,36.2700,0.0000,False,1.0000,0.0000,False,11.0907,0.0039
+culmen_depth_mm,False,0.9728,0.0000,False,41.4940,0.0000,False,1.0000,0.0000,False,12.8071,0.0017
+flipper_length_mm,False,0.9518,0.0000,False,62.3233,0.0000,False,1.0000,0.0000,False,20.6100,0.0000
+body_mass_g,False,0.9590,0.0000,False,28.9167,0.0000,False,1.0000,0.0000,False,20.2444,0.0000

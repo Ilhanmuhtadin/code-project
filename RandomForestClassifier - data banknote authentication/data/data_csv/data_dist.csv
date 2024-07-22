@@ -1,0 +1,4 @@
+Columns,Shapiro,Stat_shapiro,P_value_shapiro,Normaltes,Stat_Normaltes,P_value_Normaltes,Kstest,Stat_Kstest,P_value_Kstest,Jarque_bera,Stat_Jarque_bera,P_value_Jarque_bera
+Variance_Wavelet,False,0.9821,0.0000,False,92.3971,0.0000,False,0.3189,0.0000,False,37.1346,0.0000
+Skewness_Wavelet,False,0.9748,0.0000,False,51.7329,0.0000,False,0.4990,0.0000,False,45.8068,0.0000
+Curtosis_Wavelet,False,0.9301,0.0000,False,211.1605,0.0000,False,0.3370,0.0000,False,327.2317,0.0000

@@ -1,0 +1,26 @@
+artifact_path: model_9
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 315553
+model_uuid: 18fb8afb37b54daf86ea39f9cc44cd9d
+run_id: f5610f7478fa467982bb732844ac8703
+signature:
+  inputs: '[{"type": "double", "name": "Variance_Wavelet", "required": true}, {"type":
+    "double", "name": "Skewness_Wavelet", "required": true}, {"type": "double", "name":
+    "Curtosis_Wavelet", "required": true}]'
+  outputs: '[{"type": "long", "name": "Class", "required": true}]'
+  params: null
+utc_time_created: '2024-05-24 16:25:17.328679'

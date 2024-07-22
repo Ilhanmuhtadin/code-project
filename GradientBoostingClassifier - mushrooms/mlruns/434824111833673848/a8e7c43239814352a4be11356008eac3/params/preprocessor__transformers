@@ -1,0 +1,1 @@
+[('cat', Pipeline(steps=[('onehot', OneHotEncoder(drop='first'))]), <sklearn.compose._column_transformer.make_column_selector object at 0x00000185C714AA00>)]

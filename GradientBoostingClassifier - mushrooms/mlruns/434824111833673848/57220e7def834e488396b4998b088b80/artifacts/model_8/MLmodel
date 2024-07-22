@@ -1,0 +1,38 @@
+artifact_path: model_8
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 44616
+model_uuid: e176af32b51a4df6bed95139e526129b
+run_id: 57220e7def834e488396b4998b088b80
+signature:
+  inputs: '[{"type": "string", "name": "cap-shape", "required": true}, {"type": "string",
+    "name": "cap-color", "required": true}, {"type": "string", "name": "bruises",
+    "required": true}, {"type": "string", "name": "odor", "required": true}, {"type":
+    "string", "name": "gill-attachment", "required": true}, {"type": "string", "name":
+    "gill-spacing", "required": true}, {"type": "string", "name": "gill-size", "required":
+    true}, {"type": "string", "name": "gill-color", "required": true}, {"type": "string",
+    "name": "stalk-shape", "required": true}, {"type": "string", "name": "stalk-root",
+    "required": true}, {"type": "string", "name": "stalk-surface-above-ring", "required":
+    true}, {"type": "string", "name": "stalk-surface-below-ring", "required": true},
+    {"type": "string", "name": "stalk-color-above-ring", "required": true}, {"type":
+    "string", "name": "stalk-color-below-ring", "required": true}, {"type": "string",
+    "name": "ring-number", "required": true}, {"type": "string", "name": "ring-type",
+    "required": true}, {"type": "string", "name": "spore-print-color", "required":
+    true}, {"type": "string", "name": "population", "required": true}, {"type": "string",
+    "name": "habitat", "required": true}]'
+  outputs: '[{"type": "string", "name": "class", "required": true}]'
+  params: null
+utc_time_created: '2024-05-24 16:46:38.810312'
