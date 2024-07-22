@@ -1,0 +1,25 @@
+artifact_path: grid_search__5
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 3238
+model_uuid: d07dea0125b24c3dbac5d0fa27f00445
+run_id: a4acee99f3f243d39195df00c83bb137
+signature:
+  inputs: '[{"type": "double", "name": "age", "required": true}, {"type": "double",
+    "name": "physical_score", "required": true}]'
+  outputs: '[{"type": "long", "name": "test_result", "required": true}]'
+  params: null
+utc_time_created: '2024-04-14 12:01:27.075423'

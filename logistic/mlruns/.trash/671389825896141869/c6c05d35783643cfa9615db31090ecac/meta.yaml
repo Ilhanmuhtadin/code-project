@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/logistic/mlruns/671389825896141869/c6c05d35783643cfa9615db31090ecac/artifacts
+deleted_time: 1713096966394
+end_time: 1713096384673
+entry_point_name: ''
+experiment_id: '671389825896141869'
+lifecycle_stage: deleted
+run_id: c6c05d35783643cfa9615db31090ecac
+run_name: log_____3
+run_uuid: c6c05d35783643cfa9615db31090ecac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713096375896
+status: 3
+tags: []
+user_id: ACER
