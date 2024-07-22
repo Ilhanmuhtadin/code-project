@@ -1,0 +1,3 @@
+Columns,Shapiro,Stat_shapiro,P_value_shapiro,Normaltes,Stat_Normaltes,P_value_Normaltes,Kstest,Stat_Kstest,P_value_Kstest,Jarque_bera,Stat_Jarque_bera,P_value_Jarque_bera
+Gene One,False,0.9849,0.0000,False,224.9929,0.0000,False,0.9731,0.0000,False,75.7180,0.0000
+Gene Two,False,0.9878,0.0000,False,228.3321,0.0000,False,0.9678,0.0000,False,76.0302,0.0000

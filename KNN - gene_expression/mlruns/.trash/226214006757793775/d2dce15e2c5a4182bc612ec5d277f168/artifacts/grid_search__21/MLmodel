@@ -1,0 +1,25 @@
+artifact_path: grid_search__21
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 174659
+model_uuid: 23029aaa206d4925b6d390448b37cea9
+run_id: d2dce15e2c5a4182bc612ec5d277f168
+signature:
+  inputs: '[{"type": "double", "name": "Gene One", "required": true}, {"type": "double",
+    "name": "Gene Two", "required": true}]'
+  outputs: '[{"type": "long", "name": "Cancer Present", "required": true}]'
+  params: null
+utc_time_created: '2024-04-24 12:08:16.942458'

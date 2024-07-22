@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/knn/mlruns/262246572701062119/1d3a3e256cdf4a2dbd54289c430256be/artifacts
+end_time: 1721300435695
+entry_point_name: ''
+experiment_id: '262246572701062119'
+lifecycle_stage: active
+run_id: 1d3a3e256cdf4a2dbd54289c430256be
+run_name: log_____4
+run_uuid: 1d3a3e256cdf4a2dbd54289c430256be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721300425860
+status: 3
+tags: []
+user_id: ACER
