@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/New%20folder/GradientBoostingClassifier%20-%20mushrooms/mlruns/523714307065728723/015c4d3ddb874f75b2cb7993c23b403a/artifacts
+end_time: 1721671332342
+entry_point_name: ''
+experiment_id: '523714307065728723'
+lifecycle_stage: active
+run_id: 015c4d3ddb874f75b2cb7993c23b403a
+run_name: log_____7
+run_uuid: 015c4d3ddb874f75b2cb7993c23b403a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721671319385
+status: 3
+tags: []
+user_id: ACER

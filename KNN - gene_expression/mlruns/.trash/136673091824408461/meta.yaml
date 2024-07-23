@@ -1,9 +1,0 @@
-artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/Untitled%20Folder/mlruns/136673091824408461
-creation_time: 1714392636013
-experiment_id: '136673091824408461'
-last_update_time: 1721301712902
-lifecycle_stage: deleted
-name: project_knn_gen_
-tags:
-  env: dev
-  version: 1.0.0

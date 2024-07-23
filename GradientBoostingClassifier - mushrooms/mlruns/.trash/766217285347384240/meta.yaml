@@ -1,9 +1,0 @@
-artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/gbc%20-%20Copy/mlruns/766217285347384240
-creation_time: 1721360028932
-experiment_id: '766217285347384240'
-last_update_time: 1721362492730
-lifecycle_stage: deleted
-name: project_mush_GradientBoostingClassifier_new
-tags:
-  env: dev
-  version: 1.0.0

@@ -1,0 +1,1 @@
+[('num', Pipeline(steps=[('scaler', StandardScaler())]), <sklearn.compose._column_transformer.make_column_selector object at 0x0000018DA6732550>)]

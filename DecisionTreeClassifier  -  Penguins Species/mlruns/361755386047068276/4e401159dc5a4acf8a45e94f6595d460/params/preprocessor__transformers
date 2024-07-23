@@ -1,1 +1,0 @@
-[('num', Pipeline(steps=[('scaler', StandardScaler())]), <sklearn.compose._column_transformer.make_column_selector object at 0x000001E9AD2A5A60>), ('cat', Pipeline(steps=[('onehot', OneHotEncoder(drop='first'))]), <sklearn.compose._column_transformer.make_column_selector object at 0x000001E9AD2972E0>)]

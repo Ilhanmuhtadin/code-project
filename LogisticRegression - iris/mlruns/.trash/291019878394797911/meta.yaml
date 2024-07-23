@@ -1,9 +1,0 @@
-artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/logistic%20-%20%28done%29/mlruns/291019878394797911
-creation_time: 1721295546366
-experiment_id: '291019878394797911'
-last_update_time: 1721295655470
-lifecycle_stage: deleted
-name: project_logistic_iris_prod
-tags:
-  env: dev
-  version: 1.0.0

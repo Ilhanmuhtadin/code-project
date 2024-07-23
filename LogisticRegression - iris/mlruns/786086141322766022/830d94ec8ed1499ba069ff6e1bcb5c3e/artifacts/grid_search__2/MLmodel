@@ -1,0 +1,27 @@
+artifact_path: grid_search__2
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 3310
+model_uuid: 49b2de2de4d74d929a950409ba8eb48c
+run_id: 830d94ec8ed1499ba069ff6e1bcb5c3e
+signature:
+  inputs: '[{"type": "double", "name": "sepal_length", "required": true}, {"type":
+    "double", "name": "sepal_width", "required": true}, {"type": "double", "name":
+    "petal_length", "required": true}, {"type": "double", "name": "petal_width", "required":
+    true}]'
+  outputs: '[{"type": "string", "name": "species", "required": true}]'
+  params: null
+utc_time_created: '2024-07-22 14:56:55.803113'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/New%20folder/LogisticRegression%20-%20iris/mlruns/786086141322766022/5f09fd1bafb448a2aef267f5fadaba46/artifacts
+end_time: 1721660205734
+entry_point_name: ''
+experiment_id: '786086141322766022'
+lifecycle_stage: active
+run_id: 5f09fd1bafb448a2aef267f5fadaba46
+run_name: log_____1
+run_uuid: 5f09fd1bafb448a2aef267f5fadaba46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721660184253
+status: 3
+tags: []
+user_id: ACER

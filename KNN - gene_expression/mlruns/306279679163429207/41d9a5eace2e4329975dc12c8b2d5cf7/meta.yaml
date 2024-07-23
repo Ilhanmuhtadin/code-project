@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/New%20folder/KNN%20-%20gene_expression/mlruns/306279679163429207/41d9a5eace2e4329975dc12c8b2d5cf7/artifacts
+end_time: 1721663495369
+entry_point_name: ''
+experiment_id: '306279679163429207'
+lifecycle_stage: active
+run_id: 41d9a5eace2e4329975dc12c8b2d5cf7
+run_name: log_____7
+run_uuid: 41d9a5eace2e4329975dc12c8b2d5cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721663480579
+status: 3
+tags: []
+user_id: ACER

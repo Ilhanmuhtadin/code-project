@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/New%20folder/RandomForestClassifier%20-%20data%20banknote%20authentication/mlruns/957117586982953484/8562424f02f2452dbcbe10fe57dadc62/artifacts
+end_time: 1721663094945
+entry_point_name: ''
+experiment_id: '957117586982953484'
+lifecycle_stage: active
+run_id: 8562424f02f2452dbcbe10fe57dadc62
+run_name: log_____1
+run_uuid: 8562424f02f2452dbcbe10fe57dadc62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721663072437
+status: 3
+tags: []
+user_id: ACER

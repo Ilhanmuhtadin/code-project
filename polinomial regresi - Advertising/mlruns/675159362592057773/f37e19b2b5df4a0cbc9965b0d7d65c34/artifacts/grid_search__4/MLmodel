@@ -1,0 +1,25 @@
+artifact_path: grid_search__4
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.1
+model_size_bytes: 3182
+model_uuid: f2a5c2032d2e465180e0a99e1275a4cd
+run_id: f37e19b2b5df4a0cbc9965b0d7d65c34
+signature:
+  inputs: '[{"type": "double", "name": "TV", "required": true}, {"type": "double",
+    "name": "radio", "required": true}]'
+  outputs: '[{"type": "double", "name": "sales", "required": true}]'
+  params: null
+utc_time_created: '2024-07-22 13:58:26.271550'

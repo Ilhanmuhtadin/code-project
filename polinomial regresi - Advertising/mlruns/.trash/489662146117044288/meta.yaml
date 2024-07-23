@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/new_lr/mlruns/489662146117044288
+creation_time: 1721652171699
+experiment_id: '489662146117044288'
+last_update_time: 1721655087264
+lifecycle_stage: deleted
+name: project_poly_docker_new
+tags:
+  env: dev
+  version: 1.0.0

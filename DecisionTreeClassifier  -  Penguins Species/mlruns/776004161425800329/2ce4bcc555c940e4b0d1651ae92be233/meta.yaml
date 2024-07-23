@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/New%20folder/DecisionTreeClassifier%20%20-%20%20Penguins%20Species/mlruns/776004161425800329/2ce4bcc555c940e4b0d1651ae92be233/artifacts
+end_time: 1721660211421
+entry_point_name: ''
+experiment_id: '776004161425800329'
+lifecycle_stage: active
+run_id: 2ce4bcc555c940e4b0d1651ae92be233
+run_name: log_____8
+run_uuid: 2ce4bcc555c940e4b0d1651ae92be233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721660193147
+status: 3
+tags: []
+user_id: ACER

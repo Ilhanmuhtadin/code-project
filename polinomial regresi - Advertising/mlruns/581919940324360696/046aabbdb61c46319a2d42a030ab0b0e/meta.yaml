@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Downloads/UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/new_lr/mlruns/581919940324360696/046aabbdb61c46319a2d42a030ab0b0e/artifacts
+end_time: 1721656360317
+entry_point_name: ''
+experiment_id: '581919940324360696'
+lifecycle_stage: active
+run_id: 046aabbdb61c46319a2d42a030ab0b0e
+run_name: log_____1
+run_uuid: 046aabbdb61c46319a2d42a030ab0b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721656332833
+status: 3
+tags: []
+user_id: ACER

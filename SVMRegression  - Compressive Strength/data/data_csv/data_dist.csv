@@ -1,0 +1,11 @@
+Columns,Shapiro,Stat_shapiro,P_value_shapiro,Normaltes,Stat_Normaltes,P_value_Normaltes,Kstest,Stat_Kstest,P_value_Kstest,Jarque_bera,Stat_Jarque_bera,P_value_Jarque_bera
+Cement,False,0.8384,0.0000,False,1919.4755,0.0000,False,1.0000,0.0000,False,12.1033,0.0024
+Slag,False,0.8606,0.0000,False,90.1580,0.0000,False,0.6863,0.0000,False,8.6104,0.0135
+Fly ash,False,0.8577,0.0000,False,12.5889,0.0018,False,0.8039,0.0000,False,9.9020,0.0071
+Water,False,0.9681,0.0145,False,7.4889,0.0236,False,1.0000,0.0000,True,3.8159,0.1484
+SP,False,0.9214,0.0000,False,14.2437,0.0008,False,1.0000,0.0000,False,15.5775,0.0004
+Coarse Aggr.,False,0.9718,0.0280,False,7.7761,0.0205,False,1.0000,0.0000,True,3.2755,0.1944
+Fine Aggr.,False,0.9675,0.0129,True,4.4313,0.1091,False,1.0000,0.0000,True,3.0481,0.2178
+SLUMP(cm),False,0.8105,0.0000,False,17.5601,0.0002,False,0.8596,0.0000,False,22.1010,0.0000
+FLOW(cm),False,0.9068,0.0000,False,12.7884,0.0017,False,1.0000,0.0000,False,8.0332,0.0180
+Compressive Strength (28-day)(Mpa),True,0.9872,0.4393,True,1.2045,0.5476,False,1.0000,0.0000,True,0.8243,0.6622
